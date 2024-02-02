@@ -29,14 +29,6 @@ class Lampara() {
         this.estado = false
         return println("Lámpara apagada")
     }
-
-    fun cambiarEstancia(pIndiceIndentificador: Int) {
-        return if (pIndiceIndentificador in identificador.indices) {
-            println("Estancia: ${identificador[pIndiceIndentificador]}")
-        } else {
-            println(RED + "Estancia no válida" + RESET)
-        }
-    }
     fun cambiarColor(pIndiceColor: Int) {
         return if (pIndiceColor in color.indices) {
             println("Color cambiado a : ${color[pIndiceColor]}")
