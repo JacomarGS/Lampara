@@ -11,7 +11,7 @@ Ejercicio para practicar la creación de clases y la definición de sus métodos
 1. Llibreries de control d'errors: [Utilities.kt](https://github.com/JacomarGS/Lampara/blob/main/src/main/kotlin/Utilities.kt) por [Raimon Izard](https://github.com/raimonizard)
 2. Llibreria de colors: [ConsoleColors.kt](https://github.com/JacomarGS/Lampara/blob/main/src/main/kotlin/ConsoleColors.kt) por [Raimon Izard](https://github.com/raimonizard)
 ---
-## Imatges
+## Imágenes
 
 **UML de la clase Lámpara**
 
